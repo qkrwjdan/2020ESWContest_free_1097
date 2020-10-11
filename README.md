@@ -6,5 +6,4 @@ This document is for 2020ESWContest :)
 
 Enjoy it
 
-Link:[GLOVR][glovrlink]
-[glovrlink] : https://github.com/YUNKWANGYOU/gloVR
+Link:[GloVR](https://github.com/YUNKWANGYOU/gloVR)
