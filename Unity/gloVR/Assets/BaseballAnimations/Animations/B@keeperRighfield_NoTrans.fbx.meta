@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: a461f5cbe48ec554fb1d9b487d47457a
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Body_geo
+    100004: Chest_J
+    100006: Face_geo
+    100008: geometry
+    100010: Head_J
+    100012: Helmet_J
+    100014: L_Ankle_J
+    100016: L_Ball_J
+    100018: L_Clavicle_J
+    100020: L_Elbow_J
+    100022: L_Extra_J
+    100024: L_Hip_J
+    100026: L_Index_01_J
+    100028: L_Index_02_J
+    100030: L_Index_03_J
+    100032: L_Index_04_J
+    100034: L_Knee_J
+    100036: L_Middle_01_J
+    100038: L_Middle_02_J
+    100040: L_Middle_03_J
+    100042: L_Middle_04_J
+    100044: L_Pad_J
+    100046: L_ProWrist_J
+    100048: L_Shoulder_J
+    100050: L_Thumb_01_J
+    100052: L_Thumb_02_J
+    100054: L_Toe_J
+    100056: L_Wrist_J
+    100058: Neck_J
+    100060: Pelvis_J
+    100062: R_Ankle_J
+    100064: R_Ball_J
+    100066: R_Clavicle_J
+    100068: R_Elbow_J
+    100070: R_Extra_J
+    100072: R_Hip_J
+    100074: R_Index_01_J
+    100076: R_Index_02_J
+    100078: R_Index_03_J
+    100080: R_Index_04_J
+    100082: R_Knee_J
+    100084: R_Middle_01_J
+    100086: R_Middle_02_J
+    100088: R_Middle_03_J
+    100090: R_Middle_04_J
+    100092: R_Pad_J
+    100094: R_ProWrist_J
+    100096: R_Shoulder_J
+    100098: R_Thumb_01_J
+    100100: R_Thumb_02_J
+    100102: R_Toe_J
+    100104: R_Wrist_J
+    100106: Root_J
+    100108: Shoe_geo
+    100110: Spline_01_J
+    100112: Spline_02_J
+    100114: Transform_J
+    400000: //RootNode
+    400002: Body_geo
+    400004: Chest_J
+    400006: Face_geo
+    400008: geometry
+    400010: Head_J
+    400012: Helmet_J
+    400014: L_Ankle_J
+    400016: L_Ball_J
+    400018: L_Clavicle_J
+    400020: L_Elbow_J
+    400022: L_Extra_J
+    400024: L_Hip_J
+    400026: L_Index_01_J
+    400028: L_Index_02_J
+    400030: L_Index_03_J
+    400032: L_Index_04_J
+    400034: L_Knee_J
+    400036: L_Middle_01_J
+    400038: L_Middle_02_J
+    400040: L_Middle_03_J
+    400042: L_Middle_04_J
+    400044: L_Pad_J
+    400046: L_ProWrist_J
+    400048: L_Shoulder_J
+    400050: L_Thumb_01_J
+    400052: L_Thumb_02_J
+    400054: L_Toe_J
+    400056: L_Wrist_J
+    400058: Neck_J
+    400060: Pelvis_J
+    400062: R_Ankle_J
+    400064: R_Ball_J
+    400066: R_Clavicle_J
+    400068: R_Elbow_J
+    400070: R_Extra_J
+    400072: R_Hip_J
+    400074: R_Index_01_J
+    400076: R_Index_02_J
+    400078: R_Index_03_J
+    400080: R_Index_04_J
+    400082: R_Knee_J
+    400084: R_Middle_01_J
+    400086: R_Middle_02_J
+    400088: R_Middle_03_J
+    400090: R_Middle_04_J
+    400092: R_Pad_J
+    400094: R_ProWrist_J
+    400096: R_Shoulder_J
+    400098: R_Thumb_01_J
+    400100: R_Thumb_02_J
+    400102: R_Toe_J
+    400104: R_Wrist_J
+    400106: Root_J
+    400108: Shoe_geo
+    400110: Spline_01_J
+    400112: Spline_02_J
+    400114: Transform_J
+    2100000: PlayerB_Rig_Player2_Rig2__2__Face_t
+    2100002: PlayerB_Rig_Player2_Rig2__2__Player_Body_t
+    2100004: PlayerB_Rig_Player2_Rig2__2__Shoe_t
+    4300000: Face_geo
+    4300002: Body_geo
+    4300004: Shoe_geo
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Body_geo
+    13700002: Face_geo
+    13700004: Shoe_geo
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

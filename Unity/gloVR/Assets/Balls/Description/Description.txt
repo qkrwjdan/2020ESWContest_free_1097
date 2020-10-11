@@ -1,0 +1,16 @@
+Set of 9 low-poly models.
+-Basketball (2048*2048px)
+-Dodgeball (2048*2048px)
+-Voleyball (2048*2048px)
+-Soccer ball (2048*2048px)
+-Football (American) (2048*2048px)
+-Golf ball (1024*1024px)
+-Tennis ball (2048*2048px)
+-Baseball (2048*2048px)
+-Beach ball (2048*2048px)
+Materials contain 3 textures: diffuse (Albedo), normal map, metallic texture (with adjusted smoothness)
+All textures are applied and adjusted.
+All meshes are fitted to Unity measurement systems and correspond to the dimensions of existing originals.
+
+	***How to use***
+Just drag and drop desired ball from "Prefabs" folder into the scene view or hierarchy window. If necessary, add needed components, like rigidbody or collider.
